@@ -1,0 +1,1000 @@
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 0
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.68397343 -0.6055585 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7633548 -0.6772959 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.3004959 0.31657937 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 1
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.68397343 -0.6055585 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7633548 -0.6772959 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.3004959 0.31657937 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 2
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.68397343 -0.6055585 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7633548 -0.6772959 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.3004959 0.31657937 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 3
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67647254 -0.6130594 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.75545496 -0.68519574 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.2777325 0.29381597 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 4
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67647254 -0.6130594 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.75545496 -0.68519574 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.25466794 0.27075142 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 5
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67647254 -0.6130594 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.75545496 -0.68519574 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.25466794 0.27075142 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 6
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67647254 -0.6130594 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.75545496 -0.68519574 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.25466794 0.27075142 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 7
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67011225 -0.6194197 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.74869454 -0.69195616 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.23131695 0.24740043 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 8
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67011225 -0.6194197 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.74869454 -0.69195616 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.20769629 0.22377977 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 9
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67011225 -0.6194197 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.74869454 -0.69195616 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.20769629 0.22377977 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 10
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.67011225 -0.6194197 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.74869454 -0.69195616 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.20769629 0.22377977 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 11
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6649232 -0.62460876 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7431045 -0.6975462 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.18382469 0.19990817 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 12
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6649232 -0.62460876 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7431045 -0.6975462 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.15972288 0.17580636 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 13
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6649232 -0.62460876 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7431045 -0.6975462 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.15972288 0.17580636 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 14
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6649232 -0.62460876 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7431045 -0.6975462 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.15972288 0.17580636 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 15
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66093177 -0.6286002 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73871166 -0.70193905 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.13541351 0.15149699 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 16
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66093177 -0.6286002 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73871166 -0.70193905 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.11092102 0.1270045 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 17
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66093177 -0.6286002 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73871166 -0.70193905 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.11092102 0.1270045 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 18
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66093177 -0.6286002 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73871166 -0.70193905 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.11092102 0.1270045 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 19
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6581595 -0.63137245 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7355376 -0.7051131 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.08627151 0.102354996 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 20
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6581595 -0.63137245 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7355376 -0.7051131 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.06149257 0.077576056 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 21
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6581595 -0.63137245 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7355376 -0.7051131 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.06149257 0.077576056 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 22
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6581595 -0.63137245 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7355376 -0.7051131 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.06149257 0.077576056 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 23
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65662247 -0.6329095 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73359865 -0.70705205 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.036613055 0.05269654 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 24
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65662247 -0.6329095 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73359865 -0.70705205 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.011662839 0.027746325 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 25
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65662247 -0.6329095 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73359865 -0.70705205 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.011662839 0.027746325 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 26
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65662247 -0.6329095 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73359865 -0.70705205 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.011662839 0.027746325 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 27
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65633094 -0.633201 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7329051 -0.7077456 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.013327457 0.0027560294 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 28
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65633094 -0.633201 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7329051 -0.7077456 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.03832676 -0.022243273 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 29
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65633094 -0.633201 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7329051 -0.7077456 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.03832676 -0.022243273 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 30
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65633094 -0.633201 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7329051 -0.7077456 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.03832676 -0.022243273 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 31
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65728897 -0.632243 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7334611 -0.7071896 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.06330384 -0.047220357 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 32
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65728897 -0.632243 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7334611 -0.7071896 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.08822765 -0.072144166 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 33
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65728897 -0.632243 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7334611 -0.7071896 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.08822765 -0.072144166 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 34
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65728897 -0.632243 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7334611 -0.7071896 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.08822765 -0.072144166 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 35
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65949434 -0.6300376 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73526436 -0.70538634 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.1130676 -0.09698411 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 36
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65949434 -0.6300376 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73526436 -0.70538634 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.13779385 -0.12171037 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 37
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65949434 -0.6300376 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73526436 -0.70538634 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.13779385 -0.12171037 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 38
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.65949434 -0.6300376 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73526436 -0.70538634 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.13779385 -0.12171037 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 39
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6629384 -0.62659353 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73830646 -0.70234424 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.16237764 -0.14629416 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 40
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6629384 -0.62659353 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73830646 -0.70234424 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.18679148 -0.170708 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 41
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6629384 -0.62659353 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73830646 -0.70234424 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.18679148 -0.170708 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 42
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6629384 -0.62659353 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.73830646 -0.70234424 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.18679148 -0.170708 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 43
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66760665 -0.6219253 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7425728 -0.6980779 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.2110094 -0.19492592 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 44
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66760665 -0.6219253 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7425728 -0.6980779 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.23500714 -0.21892366 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 45
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66760665 -0.6219253 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7425728 -0.6980779 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.23500714 -0.21892366 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 46
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.66760665 -0.6219253 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7425728 -0.6980779 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.23500714 -0.21892366 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 47
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6734788 -0.61605316 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7480432 -0.6926075 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.25876227 -0.24267879 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 48
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6734788 -0.61605316 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7480432 -0.6926075 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.28225434 -0.26617086 
+
+
+
+
+============================
+2 inputs, 1 outputs, 1 hidden layers 
+Iteration 49
+
+Layer 1 with 2 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : 0.6734788 -0.61605316 
+Perceptron 1 with 2 inputs. 
+Current input weights are : 0.7480432 -0.6926075 
+
+
+Layer 2 with 1 perceptrons
+
+Perceptron 0 with 2 inputs. 
+Current input weights are : -0.28225434 -0.26617086 
+
+
